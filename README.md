@@ -16,6 +16,8 @@ facebook and instagram links, finish later
 -->
 ---
 
+### GitHub Statistics
+
 [![Arun's GitHub stats][1]](https://github.com/arunsangar/github-readme-stats)\
 [![Top Langs][2]](https://github.com/anuraghazra/github-readme-stats)
 
