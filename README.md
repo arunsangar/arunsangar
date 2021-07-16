@@ -16,6 +16,12 @@ facebook and instagram links, finish later
 -->
 ---
 
+### Coding Accomplishments
+
+<img src="https://projecteuler.net/profile/csrooney.png"/>
+
+---
+
 ### GitHub Statistics
 
 [![Arun's GitHub stats][1]](https://github.com/arunsangar)\
