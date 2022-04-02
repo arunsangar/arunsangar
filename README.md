@@ -7,8 +7,7 @@ Hi there, my name is Arun.
 ### Contact Information
 
 <img src="https://i.imgur.com/j2k5XW7.png" alt="linkedin" width="14" height="14"/><b> https://www.linkedin.com/in/arunsangar/</b>\
-<img src="https://i.imgur.com/Jb7imC5.png" alt="twitter" width="14" height="14"/><b> https://twitter.com/asangar94</b>\
-<img src="https://i.imgur.com/UF0loGT.png" alt="email" width="14" height="14"/><b> asangar94@outlook.com</b>
+
 <!--
 facebook and instagram links, finish later
 <img src="https://i.imgur.com/7965eVy.png" alt="facebook" width="14" height="14"/><b></b>\
