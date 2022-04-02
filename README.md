@@ -6,7 +6,7 @@ Hi there, my name is Arun.
 
 ### Contact Information
 
-<img src="https://i.imgur.com/j2k5XW7.png" alt="linkedin" width="14" height="14"/><b> https://www.linkedin.com/in/arunsangar/</b>\
+<img src="https://i.imgur.com/j2k5XW7.png" alt="linkedin" width="14" height="14"/><b> https://www.linkedin.com/in/arunsangar/</b>
 
 <!--
 facebook and instagram links, finish later
